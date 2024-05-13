@@ -29,3 +29,34 @@ c:\Users\ge3867\Desktop\ProjetosPessoais\SorteadorDeTime\obj\Debug\net8.0\Sortea
 c:\Users\ge3867\Desktop\ProjetosPessoais\SorteadorDeTime\obj\Debug\net8.0\SorteadorDeTime.genruntimeconfig.cache
 c:\Users\ge3867\Desktop\ProjetosPessoais\SorteadorDeTime\obj\Debug\net8.0\ref\SorteadorDeTime.dll
 c:\Users\ge3867\Desktop\ProjetosPessoais\SorteadorDeTime\obj\Debug\net8.0\SorteadorDeTime.sourcelink.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\bin\Debug\net8.0\appsettings.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\bin\Debug\net8.0\SorteadorDeTime.staticwebassets.runtime.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\bin\Debug\net8.0\SorteadorDeTime.exe
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\bin\Debug\net8.0\SorteadorDeTime.deps.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\bin\Debug\net8.0\SorteadorDeTime.runtimeconfig.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\bin\Debug\net8.0\SorteadorDeTime.dll
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\bin\Debug\net8.0\SorteadorDeTime.pdb
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.AssemblyInfoInputs.cache
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.AssemblyInfo.cs
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.csproj.CoreCompileInputs.cache
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.RazorAssemblyInfo.cache
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.RazorAssemblyInfo.cs
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.sourcelink.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\staticwebassets\msbuild.SorteadorDeTime.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\staticwebassets\msbuild.build.SorteadorDeTime.props
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SorteadorDeTime.props
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SorteadorDeTime.props
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\scopedcss\bundle\SorteadorDeTime.styles.css
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\scopedcss\projectbundle\SorteadorDeTime.bundle.scp.css
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.dll
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\refint\SorteadorDeTime.dll
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.pdb
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\SorteadorDeTime.genruntimeconfig.cache
+c:\Users\Guilherme Farinela\Desktop\Aplicações\Sorteador-de-Times\obj\Debug\net8.0\ref\SorteadorDeTime.dll

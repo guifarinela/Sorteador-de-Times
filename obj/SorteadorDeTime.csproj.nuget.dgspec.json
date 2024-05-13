@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj": {}
+    "c:\\Users\\Guilherme Farinela\\Desktop\\Aplicações\\Sorteador-de-Times\\SorteadorDeTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj": {
+    "c:\\Users\\Guilherme Farinela\\Desktop\\Aplicações\\Sorteador-de-Times\\SorteadorDeTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj",
+        "projectUniqueName": "c:\\Users\\Guilherme Farinela\\Desktop\\Aplicações\\Sorteador-de-Times\\SorteadorDeTime.csproj",
         "projectName": "SorteadorDeTime",
-        "projectPath": "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj",
-        "packagesPath": "C:\\Users\\ge3867\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\obj\\",
+        "projectPath": "c:\\Users\\Guilherme Farinela\\Desktop\\Aplicações\\Sorteador-de-Times\\SorteadorDeTime.csproj",
+        "packagesPath": "C:\\Users\\Guilherme Farinela\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Guilherme Farinela\\Desktop\\Aplicações\\Sorteador-de-Times\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ge3867\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Guilherme Farinela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
