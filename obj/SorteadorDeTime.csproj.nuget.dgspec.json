@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj": {}
+    "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj": {
+    "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj",
+        "projectUniqueName": "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj",
         "projectName": "SorteadorDeTime",
-        "projectPath": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj",
+        "projectPath": "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\SorteadorDeTime.csproj",
         "packagesPath": "C:\\Users\\ge3867\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\obj\\",
+        "outputPath": "C:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ge3867\\AppData\\Roaming\\NuGet\\NuGet.Config"

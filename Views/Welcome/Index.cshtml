@@ -1,0 +1,47 @@
+@{
+    ViewData["title"] = "Home Page";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/stylewelcome.css" asp-append-version="true" />
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div class="ConteudoNav">
+            <div class="img">
+                <img class="logo" src="~/img/Logo.png" alt="">
+            </div>
+            <nav>
+                <a href="">Home</a>
+                <a href="">Histórico</a>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <h1>Gerador de equipes</h1>
+        <ul class="Lista">
+            <li>
+                <h2 class="ListaEsporte">Futebol</h2>
+                <img class="imgLista" src="~/img/Futebol.png">
+                <p>Distribuir talentos</p>
+            </li>
+                        <li>
+                <h2 class="ListaEsporte">Basquete</h2>
+                <img class="imgLista" src="~/img/Basquete.png">
+                <p>Distribuir talentos</p>
+            </li>
+        </ul>
+    </main>
+    <footer>
+		<p>Sorteador de time - 2024</p>
+    </footer>
+</body>
+</html>
+

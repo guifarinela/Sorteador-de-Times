@@ -9,8 +9,28 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\wwwroot\\css\\stylewelcome.css",
+      "PackagePath": "staticwebassets\\css\\stylewelcome.css"
+    },
+    {
       "Id": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\wwwroot\\img\\Basquete.png",
+      "PackagePath": "staticwebassets\\img\\Basquete.png"
+    },
+    {
+      "Id": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\wwwroot\\img\\Futebol.png",
+      "PackagePath": "staticwebassets\\img\\Futebol.png"
+    },
+    {
+      "Id": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\wwwroot\\img\\Logo.png",
+      "PackagePath": "staticwebassets\\img\\Logo.png"
+    },
+    {
+      "Id": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\wwwroot\\img\\nav.jfif",
+      "PackagePath": "staticwebassets\\img\\nav.jfif"
     },
     {
       "Id": "c:\\Users\\ge3867\\Desktop\\ProjetosPessoais\\SorteadorDeTime\\wwwroot\\js\\site.js",

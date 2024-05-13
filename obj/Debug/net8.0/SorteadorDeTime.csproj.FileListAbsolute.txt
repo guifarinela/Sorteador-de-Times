@@ -28,3 +28,4 @@ c:\Users\ge3867\Desktop\ProjetosPessoais\SorteadorDeTime\obj\Debug\net8.0\refint
 c:\Users\ge3867\Desktop\ProjetosPessoais\SorteadorDeTime\obj\Debug\net8.0\SorteadorDeTime.pdb
 c:\Users\ge3867\Desktop\ProjetosPessoais\SorteadorDeTime\obj\Debug\net8.0\SorteadorDeTime.genruntimeconfig.cache
 c:\Users\ge3867\Desktop\ProjetosPessoais\SorteadorDeTime\obj\Debug\net8.0\ref\SorteadorDeTime.dll
+c:\Users\ge3867\Desktop\ProjetosPessoais\SorteadorDeTime\obj\Debug\net8.0\SorteadorDeTime.sourcelink.json
