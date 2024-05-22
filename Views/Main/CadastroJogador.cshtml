@@ -1,0 +1,41 @@
+@{
+    ViewData["title"] = "Cadastrar Jogador";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="~/css/cadastrojogador.css" asp-append-version="true" />
+    <title>Cadastrar Jogador</title>
+</head>
+<body>
+    <form action="">
+        <div class="container-main">
+            <h1>Cadastrar Jogador</h1>
+            <label for="text">Nome:</label>
+            <input type="text" name="text" id="text">
+            <label for="customRange2">Estrelas: <span id="rangeValue"> 0</span></label>
+            <input type="range" class="form-range" min="0" max="5" id="customRange2" step="1">
+            <script>
+                const rangeInput = document.getElementById('customRange2');
+                const rangeValue = document.getElementById('rangeValue');
+
+                rangeInput.addEventListener('input', function() {
+                    rangeValue.textContent = this.value;
+                });
+                rangeValue.textContent = rangeInput.value;
+            </script>
+            <label for="checkbox">Posição:</label>
+            <input type="text" name="text" id="text">
+            <div class="container-btn">
+                <button class="btn">Cadastrar</button>
+                <button asp-controller="Main" asp-action="Main" class="btn">Voltar</button>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+

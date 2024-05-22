@@ -26,16 +26,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/Guilherme Farinela/Desktop/Aplicações/Sorteador-de-Times/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guilherme Farinela/Desktop/Aplicações/Sorteador-de-Times/Views/Login/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guilherme Farinela/Desktop/Aplicações/Sorteador-de-Times/Views/Main/CadastroJogador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxDYWRhc3Ryb0pvZ2Fkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guilherme Farinela/Desktop/Aplicações/Sorteador-de-Times/Views/Main/Historic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxIaXN0b3JpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guilherme Farinela/Desktop/Aplicações/Sorteador-de-Times/Views/Main/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/Guilherme Farinela/Desktop/Aplicações/Sorteador-de-Times/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/Guilherme Farinela/Desktop/Aplicações/Sorteador-de-Times/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/Guilherme Farinela/Desktop/Aplicações/Sorteador-de-Times/Views/Welcome/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VsY29tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/Guilherme Farinela/Desktop/Aplicações/Sorteador-de-Times/Views/_ViewImports.cshtml]

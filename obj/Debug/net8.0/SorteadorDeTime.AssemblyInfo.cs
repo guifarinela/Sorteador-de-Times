@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SorteadorDeTime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c74345e7a206c583b1a236a64d224c63cf37589a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d2b0ebcab4ce4993e0c3cfbaf5338c966394bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SorteadorDeTime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SorteadorDeTime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,51 @@
+@{
+    ViewData["title"] = "Balanceador de Equipes";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="~/css/stylehome.css" asp-append-version="true" />
+    <title>Balanceador de Equipes</title>
+</head>
+<body>
+    <div class="Container-Titulo-Main">
+        <div class="Container-Titulo-Esquerda">
+        </div>
+        <div class="Container-Titulo">
+            <h1 class="Titulo">Balanceador de Equipes</h1>
+        </div>
+        <div class="Container-Titulo-Direita">
+            <a asp-controller="Login" asp-action="Index">Sair</a>
+        </div>
+    </div>
+    <div class="Container-body">
+        <div class="Container-botao">
+            <a asp-controller="Main" asp-action="CadastroJogador">Cadastrar Jogador</a>
+            <a asp-controller="Main" asp-action="Historic">Histórico</a>
+        </div>
+        <div class="Container-Main-ir">
+            <div class="Container-input">
+                <h2>Atletas</h2>
+                <div class="Container-TextArea">
+
+                </div>
+                @* <div class="Container-Team">
+                    <h2>Quantidade de Equipes</h2>
+                    <input type="text" >
+                </div> *@
+                <div class="Container-botao-generate">
+                    <a>Generate</a>
+                </div>
+            </div>
+            <div class="Container-result">
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+html{
+    overflow: hidden;
+}
+
+body{
+    background-image: url('../img/grama.jpg');
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.8;
+}
+
+.Container-Titulo-Main{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.Container-Titulo{
+    width: 33%;
+    height: 100%;
+    background-color: black;
+    border-radius: 30px;
+    opacity: 0.7;
+    border: 3px solid greenyellow;
+    box-shadow: 
+    0 0 20px rgba(0, 0, 0, 0.8),
+    0 0 40px rgba(0, 0, 0, 0.6),
+    0 0 60px rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    opacity: 0.9;
+}
+
+.Container-Titulo-Esquerda{
+    width: 33%;
+    height: 100%;
+}
+
+.Container-Titulo-Direita{
+    width: 33%;
+    height: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Container-Titulo-Direita a{
+    height: 40px;
+    width: 10%;
+    background-color: black;
+    border-radius: 30px;
+    opacity: 0.7;
+    border: 3px solid greenyellow;
+    box-shadow: 
+    0 0 20px rgba(0, 0, 0, 0.8),
+    0 0 40px rgba(0, 0, 0, 0.6),
+    0 0 60px rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    color: azure;
+    cursor: pointer;
+    opacity: 0.9;
+    text-decoration: none;
+}
+
+.Container-Titulo-Direita a:hover{
+    opacity: 0.8;
+}
+
+
+.Titulo{
+    color: azure;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.Container-body{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+.Container-botao{
+    width: 100%;
+    height: 100px;
+    padding-right: 50px;
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+    
+}
+.Container-botao a{
+    width: 200px;
+    height: 50px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.Container-botao a:hover{
+    opacity: 0.9;
+}
+
+.Container-Main-ir{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+} 
+
+.Container-input{
+    background-color: black;
+    border-radius: 30px;
+    opacity: 0.7;
+    border: 3px solid greenyellow;
+    box-shadow: 
+    0 0 20px rgba(0, 0, 0, 0.8),
+    0 0 40px rgba(0, 0, 0, 0.6),
+    0 0 60px rgba(0, 0, 0, 0.4);
+    width: 20%;
+    height: 600px;
+    display: inline;
+    justify-content: center;
+    padding: 20px;
+    opacity: 0.9;
+}
+
+.Container-input h2{
+    color: azure;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.Container-TextArea{
+    width: 100%;
+    height: 450px;
+    background-color: azure;
+}
+
+.Container-Team{
+    width: 100%;
+    height: 160px;
+}
+
+.Container-Team input{
+    width: 100%;
+    height: 35px;
+    color: black;
+    font-size: large;
+    opacity: 1;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.Container-Generate{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.Container-botao-generate{
+    width: 100%;
+    height: 50px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.Container-botao-generate a:hover{
+    opacity: 0.9;
+}
+
+.Container-result{
+    background-color: black;
+    border-radius: 30px;
+    opacity: 0.7;
+    border: 3px solid greenyellow;
+    box-shadow: 
+    0 0 20px rgba(0, 0, 0, 0.8),
+    0 0 40px rgba(0, 0, 0, 0.6),
+    0 0 60px rgba(0, 0, 0, 0.4);
+    width: 40%;
+    height: 600px;
+    opacity: 0.9;
+}

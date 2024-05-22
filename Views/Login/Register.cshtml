@@ -1,0 +1,37 @@
+@{
+    ViewData["title"] = "Cadastro";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="~/css/stylelogin.css" asp-append-version="true" />
+    <title>Cadastro</title>
+</head>
+<body>
+    <form action="">
+        <div class="container-main">
+            <h1>Cadastro</h1>
+            <div class="container-label">
+                <label class="labelNome" for="name">Nome:</label>
+                <label class="labelNome" for="name">Sobrenome:</label>
+            </div>
+            <div class="container-input">
+                <input class="inputNome" type="text" name="text" id="text">
+                <input class="inputNome" type="text" name="text" id="text">
+            </div>
+            <label for="email">E-mail:</label>
+            <input type="email" name="email" id="email">
+            <label for="password">Senha:</label>
+            <input type="password" name="password" id="password"> 
+            <div class="container-btn">
+                <button class="btn">Cadastrar</button>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+

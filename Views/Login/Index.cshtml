@@ -1,0 +1,32 @@
+@{
+    ViewData["title"] = "Login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="~/css/stylelogin.css" asp-append-version="true" />
+    <title>Login</title>
+</head>
+<body>
+    <form action="">
+        <div class="container-main">
+            <h1>Login</h1>
+            <label for="email">E-mail:</label>
+            <input type="email" name="email" id="email">
+            <label for="password">Senha:</label>
+            <input type="password" name="password" id="password"> 
+            <div class="links">
+                <a asp-controller="Login" asp-action="Register">Registrar-se</a>
+            </div>
+            <div class="container-btn">
+                <button class="btn">Entrar</button>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+
